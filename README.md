@@ -1,10 +1,8 @@
 # Introduction-to-Artifical-Intelligence-on-Cloud
 “Completed the ‘Introduction to Artificial Intelligence on Cloud’ certification from Great Learning. Gained foundational skills in AI concepts, cloud-based deployment, intelligent systems, machine learning basics, and practical applications of AI in real-world environments.”
- Introduction to Artificial Intelligence on Cloud – Great Learning
 
 Verified Course Completion Certificate
 
-This course provided a practical introduction to Artificial Intelligence concepts and their deployment on modern cloud platforms. It strengthened my foundations in intelligent systems, cloud architecture, and real-world AI applications
 📘 Modules Completed
 
 1. Introduction to Cloud
